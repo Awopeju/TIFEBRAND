@@ -156,13 +156,13 @@
       @media (max-width:490px) {
 
         .overlay h1{
-              font-size: 1.4rem;
+              font-size: 1.8rem;
              }
              .overlay p{
-              font-size: 0.8rem;
+              font-size: 0.9rem;
              }
              .overlay button{
-              font-size: 0.7rem;
+              font-size: 0.9rem;
              }
               .overlayy h2{
               font-size: 0.7rem;
@@ -210,14 +210,14 @@
        @media (max-width:447px){
 
         .overlay h1{
-              font-size: 1.1rem;
+              font-size: 1.5rem;
              }
              .overlay p{
-              font-size: 0.7rem;
+              font-size: 0.8rem;
               color: rgb(99, 95, 95);
              }
              .overlay button{
-              font-size: 0.6rem;
+              font-size: 0.9rem;
              }
              .overlay h2{
               font-size: 0.5rem;
