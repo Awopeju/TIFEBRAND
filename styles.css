@@ -10,12 +10,11 @@
     body{
       background-color: rgb(7, 7, 7);
       color: rgb(255, 255, 255);
-      margin:20px  20px;
+      margin:10px;
       font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   line-height: 1.6;
   opacity: 0;
-  
   animation: fadeIn 1.5s ease-in-out forwards;
   animation-delay: 0.2s;
 
@@ -39,7 +38,7 @@
  nav{
     margin: 8px 10px;
     border-radius: 10px;
-    background-color:rgb(44, 36, 36) ;
+    background-color:rgb(143, 140, 140, 0.986) ;
     }
     .nav-item{
       display: flex;
@@ -54,11 +53,8 @@
        margin-top: 80px;
       width: 100%;
      align-items: center;
-     padding: 20px;
      border-radius: 20px;
-     border: double rgb(240, 240, 240);
      opacity: 0;
-  
   animation: fadeIn 1.7s ease-in both;
   animation-delay: 0.5s;
 
@@ -92,8 +88,8 @@
     }
     .overlay{
       position: absolute;
-      top: 10%;
-      left: 10%;
+      top: 15%;
+      left: 15%;
       color: rgb(242, 242, 242);
       max-width: 70%;
     }
