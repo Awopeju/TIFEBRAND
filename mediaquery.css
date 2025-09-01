@@ -1,0 +1,226 @@
+@media (max-width:1200px){
+       .arrival-items-div{
+              margin: 0;
+             }
+
+    }
+    @media (max-width:1112px){
+      .overlay h1{
+        font-size: 2rem;
+
+      }
+    }
+    @media (max-width:768px) {
+
+      
+      .hero-container{
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        height: auto;
+
+      }
+      .hero-item.big{
+        grid-row: auto;
+        
+      }
+      .hero-item.big img{
+        max-width: 100%;
+        height: auto;
+        
+       
+      }
+
+      .hero-item.small{
+        grid-column: span 1;
+      }
+      .hero-container{
+        display: grid;
+        grid-template-columns:1fr 1fr ;
+        grid-auto-rows: auto;
+      }
+        .hero-item.big{
+          grid-column: 1 / -1;
+        }
+         .overlay h1{
+          font-size: 2rem;
+          
+         }
+          .overlay p{
+            font-size: 1rem;
+          }
+          .overlay h2{
+            font-size: 1rem;
+          }
+          .overlayy h2{
+            font-size: 1.4rem;
+
+          }
+          .arrival-items-div{
+              margin: 0;
+             }
+
+          .brands-header h1 {
+      font-size: 1.8rem;
+      
+    }
+      .show-all {
+        padding: 9px 18px;
+        font-size: 10px;
+        
+        
+      }
+       .brands-header{
+            padding: 10px;
+          }
+        .brand-card img.shoe {
+          width: 100px;
+        }
+        .brand-info h2 {
+        font-size: 1.2rem;
+      
+      }
+      .brand-info p {
+        font-size: 0.7rem;
+        
+      }
+
+        .brand-logo {
+          font-size: 2.5rem;
+        }
+        .why-items p{
+        font-size: 0.9rem;
+      }
+      .why-title{
+        font-size: 1.6rem;
+      }
+
+        } 
+         
+
+      
+          @media (max-width:526px) {
+             .overlay h1{
+              font-size: 2rem;
+             }
+             .arrival-items-div{
+              margin: 0;
+             }
+            .arrrival-items{
+            width: 150px;
+          }
+          .arrrival-items img{
+            width: 100%;
+            grid-template-columns: 1fr 1fr;
+          }
+         
+          .brands-header h1 {
+        font-size: 1rem;
+
+        
+        }
+        .brand-card img.shoe {
+            width: 75px;
+          }
+          .brand-info h2 {
+          font-size: 1rem;
+        
+        }
+        .brand-info p {
+          font-size: 0.6rem;
+          
+        }
+        .brand-logo {
+            font-size: 1.3rem;
+          }
+          .why-items p{
+       font-size: 0.8rem;
+      }
+      .latest-inner-info h2{
+        font-size: 1.2rem;
+       
+      }
+      .latest-inner-info p{
+        font-size: 0.6rem;
+      }
+      .arrival-title h1{
+        font-size: 1rem;
+      }
+      .arrival-title img {
+        width: 30px;
+      }
+      .arrival-title-div h1{
+        font-size: 1.3rem;
+      }
+            
+      }
+      @media (max-width:490px) {
+
+        .overlay h1{
+              font-size: 1.4rem;
+             }
+             .overlay p{
+              font-size: 0.8rem;
+             }
+             .overlay button{
+              font-size: 0.7rem;
+             }
+              .overlayy h2{
+              font-size: 0.7rem;
+
+             }
+             .causal-indtruction h2{
+              font-size: 1.36rem;
+             }
+             .causal-indtruction p{
+              font-size: 0.7rem;
+
+             }
+             .overlayy h2{
+              font-size: 1rem;
+
+             }
+
+        .arrrival-items{
+      width: 100%;
+      margin: 0;
+      padding:10px 10px;
+     
+      
+    }
+    
+    
+    .arrrival-items img{
+      width: 100%;
+      
+    }
+    .arrrival-items button{
+      font-size: 10px;
+    }
+    .why-items p{
+       font-size: 0.7;
+      }
+      .why-title{
+        font-size: 1.2rem;
+      }
+     
+
+
+        
+      }
+       @media (max-width:447px){
+
+        .overlay h1{
+              font-size: 1.1rem;
+             }
+             .overlay p{
+              font-size: 0.7rem;
+              color: rgb(99, 95, 95);
+             }
+             .overlay button{
+              font-size: 0.6rem;
+             }
+             .overlay h2{
+              font-size: 0.5rem;
+             }
+
+       }
