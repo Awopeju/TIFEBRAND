@@ -38,7 +38,7 @@
  nav{
     margin: 8px 10px;
     border-radius: 10px;
-    background-color:rgb(143, 140, 140, 0.986) ;
+   background-color:rgba(48, 48, 48, 0.986) ;
     }
     .nav-item{
       display: flex;
@@ -135,10 +135,7 @@
       
 
     }
-     .causal-items  img{
-
      
-     }
      .first-causal-div{
       display: flex;
       justify-content: center;
@@ -234,7 +231,7 @@
     .brands-section {
       max-width: 1200px;
       margin: auto;
-        ackground-image: url(stepinto.PNG);
+        background-image: url(stepinto.PNG);
   background-position:center ;
   background-repeat:no-repeat;
   background-size: cover;
@@ -347,7 +344,7 @@
         color: rgba(230, 224, 224, 0.834);
       }
     .latest-section{
-      background: white;
+      background: rgba(255, 255, 255, 0.894);
       padding: 20px;
      
      
