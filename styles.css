@@ -234,6 +234,10 @@
     .brands-section {
       max-width: 1200px;
       margin: auto;
+        ackground-image: url(stepinto.PNG);
+  background-position:center ;
+  background-repeat:no-repeat;
+  background-size: cover;
     }
 
     .brands-header {
@@ -267,7 +271,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      background: white;
+      background: rgba(255, 255, 255, 0.788);
       color: black;
       padding: 20px;
       border-bottom: 1px solid #ddd;
@@ -291,7 +295,7 @@
 
     .brand-info p {
       font-size: 0.9rem;
-      color: rgb(140, 134, 134);
+      color: rgb(41, 41, 41)
     }
 
     .brand-logo {
@@ -312,8 +316,11 @@
       display: flex;
       justify-content: space-around;
       align-items: center;
-      margin:0 10px ;
-      padding: 10px;
+        background-image: url(stepinto.PNG);
+  background-position:center ;
+  background-repeat:no-repeat;
+  background-size: cover;
+     
       
 
     }
@@ -328,6 +335,7 @@
       border: solid rgba(255, 255, 255, 0.2);
       border-radius: 10px;
       text-align: center;
+        background-color: rgba(0, 0, 0, 0.566);
     
       
       
